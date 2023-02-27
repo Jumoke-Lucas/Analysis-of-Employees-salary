@@ -3,4 +3,4 @@ An analysis carried out on employees and their salaries at a company using SQL a
 
 ### ABOUT THE DATASET
 I dumped the database containing the datasets in MySql and uploaded the files on Github.
-The data set contains 7 tables:
+The database contains 5 tables as seen :
